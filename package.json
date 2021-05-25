@@ -2,9 +2,11 @@
     "name": "teste-frontend",
     "version": "1.0.0",
     "description": "prova teste de frontend",
-    "main": "index.js",
+    "main": "index.html",
     "scripts": {
-        "dev": "next dev"
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
     },
     "repository": {
         "type": "git",
